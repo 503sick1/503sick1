@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @503sick1
 - 👀 I’m interested in ...developing a "drip liked app on pi 
-- 🌱 I’m currently learning ...pi blockcdapps for pihain
+- 🌱 I’m currently learning ...dapps on pi
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...timbers420fc@gmail.com 
 
